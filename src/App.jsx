@@ -123,7 +123,7 @@ export default function SlotHyenaSearchApp() {
     <div className="min-h-screen bg-gray-100 p-3 sm:p-6">
       <div className="max-w-4xl mx-auto">
         <h1 className="text-2xl sm:text-3xl font-bold mb-5 text-center">
-          スロット期待値・ハイエナ検索
+          松本軍団 機密情報
         </h1>
 
         <div className="relative mb-6">
